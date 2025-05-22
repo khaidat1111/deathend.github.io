@@ -1,2 +1,1 @@
-# deathend.github.io
-deathend
+# deathend
